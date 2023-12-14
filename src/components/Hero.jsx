@@ -2,10 +2,11 @@ import React from 'react'
 import { TypeAnimation } from 'react-type-animation';
 import {FaLinkedin, FaInstagram, FaGithub} from 'react-icons/fa'
 
+
 function Hero() {
   return (
     <div id='main_hero'>
-        <img className='w-full h-screen object-cover object-left' src="src/assets/watugupit.jpg" alt="" />
+        <img className='w-full h-screen object-cover object-left' src="public/watugupit.jpg" alt="" />
         <div className='w-full h-screen absolute top-0 bg-white/40'>
             <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center'>
                 <h1 className='sm:text-5xl text-4xl font-bold text-gray-800'>I'm Nadila Rizky Putri</h1>
