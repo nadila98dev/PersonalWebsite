@@ -31,9 +31,9 @@ function Projects() {
       <div className='grid grid-cols-2 gap-12 mt-10'>
         <ProjectItem img={wonderfuljogja} title='Wonderful Jogja' githubLink={"https://github.com/nadila98dev/HSC_FinalProjects_Jogja"} url={"https://jogja-istemewa.vercel.app/things-to-do/art-activities-jogja"}/>
         <ProjectItem img={simulationvr} title='Public Speaking Smulation Virtual Reality' githubLink={"https://github.com/nadila98dev/SimulasiPS"}/>
-        <ProjectItem img={minimalsite} title='Clone Minimal Skin Care' githubLink={"https://github.com/nadila98dev/MinimalSite"}/>
+        <ProjectItem img={minimalsite} title='Clone Minimal Skin Care' githubLink={"https://github.com/nadila98dev/MinimalSite"} url={"https://clone-minimal-site-jrzcc1xuj-nadilas-projects.vercel.app/"} />
         <ProjectItem img={simpleredux} title='Simple CRUD using Redux' githubLink={"https://github.com/nadila98dev/Basic_CRUD_Redux"}/>
-        <ProjectItem img={experience_travel} title='Experience Travel Booking' githubLink={"https://github.com/nadila98dev/react-tailwind-experiences/tree/customize"}/>
+        <ProjectItem img={experience_travel} title='Experience Travel Booking' githubLink={"https://github.com/nadila98dev/react-tailwind-experiences/tree/customize"} url={"https://react-travel-experience.vercel.app/"} />
       </div>
       
     </div>
